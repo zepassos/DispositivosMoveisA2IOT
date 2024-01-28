@@ -8,7 +8,11 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
 ## Integrantes
 
-
+* Celina Valmo
+* Douglas Camargo
+* José Passos
+* Laura Rosa
+* Sayonara Alice
 
 ## Tecnologias utilizadas
 
