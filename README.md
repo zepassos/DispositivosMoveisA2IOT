@@ -16,11 +16,15 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
 ## Tecnologias
 
+### Backend
 * C#
+* .NET Core
 * PostgreSql
+
+###Frontend
 * Next.js
 
-## Configuracao e execucao backend
+## Configuraç e execucao backend
 
 1. Instale o PostgreSQL em sua máquina (última versão): https://www.enterprisedb.com/downloads/postgres-postgresql-downloads, e defina a master password. Caso queria acessar a base com mais praticidade pode ser instalado o pgAdmin
 
