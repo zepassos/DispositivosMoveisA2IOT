@@ -4,17 +4,17 @@
 
 Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
-##Objetivo
+## Objetivo
 
-##Integrantes**
+## Integrantes
 
 Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
-##Tecnologias utilizadas**
+## Tecnologias utilizadas
 
 
 
-##Configuracao e execucao**
+## Configuracao e execucao
 
 1. Instale o PostgreSQL em sua máquina (última versão): https://www.enterprisedb.com/downloads/postgres-postgresql-downloads, e defina a master password
 1.1. Caso queria acessar a base com mais praticidade pode ser instalado o pgAdmin
