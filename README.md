@@ -29,7 +29,7 @@ Nosso projeto visa melhorar a experiência de viagem, abordando desafios comuns,
 #### Backend
 * C#
 * .NET Core
-* PostgreSql
+* Postgresql
 
 ## Configuração e execução frontend (de-malas-frontend)
 
