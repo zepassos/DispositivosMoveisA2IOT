@@ -35,3 +35,6 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 ## Documentacao API
 
 Swagger: https://localhost:7244/swagger/index.html
+
+<img width="1430" alt="image" src="https://github.com/zepassos/DispositivosMoveisA2IOT/assets/57042115/fda63df3-2dda-468b-831e-21eb9bbeeec1">
+
