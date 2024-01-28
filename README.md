@@ -4,7 +4,13 @@
 
 Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
+O DeMalas foi pensado para possibilitar conectar viajantes de todos os cantos do mundo que queiram criar, compartilhar, planejar experiências, dicas e recomendações.
+
+A plataforma proporciona uma comunidade engajada e inspiradora para explorar o mundo e criar memórias inesquecíveis.
+
 ## Objetivo
+
+Nosso projeto visa melhorar a experiência de viagem, abordando desafios comuns, como conectar viajantes com destinos semelhantes, facilitar interações entre viajantes, fornecendo conteúdo em fóruns com o objetivo de simplificar e melhorar toda a experiência dos viajantes.
 
 ## Integrantes
 
