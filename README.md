@@ -1,4 +1,4 @@
-# Projeto DeMalas | mba-es-25-grupo-01
+# Projeto DeMalas :handbag: | mba-es-25-grupo-01
 
 ## Sobre o projeto
 
