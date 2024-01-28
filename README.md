@@ -16,12 +16,12 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
 ## Tecnologias
 
-### Backend
+#### Backend
 * C#
 * .NET Core
 * PostgreSql
 
-###Frontend
+#### Frontend
 * Next.js
 
 ## Configuraç e execucao backend
