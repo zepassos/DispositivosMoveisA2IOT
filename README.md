@@ -18,7 +18,7 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
 #### Frontend
 * Next.js
-* Node
+* Node.js
 
 #### Backend
 * C#
