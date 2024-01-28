@@ -27,7 +27,7 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 
 ## Configuração e execução frontend (de-malas-frontend)
 
-1. Crie um arquivo env.local e defina as sequintes variáveis
+1. Crie na raiz do projeto um arquivo .env.local e defina as sequintes variáveis
 
 * NEXT_PUBLIC_FIREBASE_API_KEY
 * NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
@@ -37,9 +37,9 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 * NEXT_PUBLIC_FIREBASE_APP_ID
 * NEXT_PUBLIC_BACKEND_API_URL
 
-2. Na raiz do projeto execute o comando **npm install**
+2. Após isso execute o comando **npm install**
 
-3. Novamente na raiz do projeto execute o comando **npm run dev**
+3. Ainda na raiz do projeto execute o comando **npm run dev**
 
 ## Configuração e execução backend (de-malas-backend)
 
