@@ -14,12 +14,11 @@ Este projeto é voltado para o desenvolvimento da aplicação DeMalas.
 * Laura Rosa
 * Sayonara Alice
 
-## Tecnologias utilizadas
+## Tecnologias
 
 * C#
 * PostgreSql
 * Next.js
-
 
 ## Configuracao e execucao backend
 
