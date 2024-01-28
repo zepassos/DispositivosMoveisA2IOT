@@ -59,7 +59,7 @@ Nosso projeto visa melhorar a experiência de viagem, abordando desafios comuns,
 
 5. Para rodar o app, execute o projeto deMalas.API
 
-## Documentacao API
+## Documentação API
 
 Swagger: https://localhost:7244/swagger/index.html
 
